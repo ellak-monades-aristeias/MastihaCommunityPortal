@@ -1,5 +1,3 @@
-# MastihaPortal
-
 ![mastiha wonder](https://raw.githubusercontent.com/ellak-monades-aristeias/MastihaPortal/master/Images/mastiha_wonder.jpg)
 
 ## Σκοπός του project
